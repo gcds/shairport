@@ -49,7 +49,7 @@ use Net::SDP;
 
 my $shairportversion = "0.05";
 
-my $apname = "ShairPort $$ on " . `hostname`;
+my $apname = "HomeServer@Darbo Kambarys";
 my $port = 5002;
 # password - required to connect
 # for no password, set:
